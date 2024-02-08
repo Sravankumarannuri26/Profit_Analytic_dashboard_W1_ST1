@@ -29,7 +29,7 @@ Utilizing machine learning models or statistical algorithms, the dashboard may i
 - **Visualization:** Utilizes Google Looker Studio to create interactive and visually appealing charts and graphs for effective data representation.
 
 
-## Looker Studio Link:[Click here](https://lookerstudio.google.com/s/u1KSRtATIsk)
+## Looker Studio Link:[Click here](https://lookerstudio.google.com/reporting/95736fc3-9edb-48e1-9211-91b60f043e0e)
 
 
 
